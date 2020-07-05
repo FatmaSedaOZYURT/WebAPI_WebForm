@@ -1,0 +1,10 @@
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_WebForm\WebAPI_WebForm\bin\Debug\WebAPI_WebForm.exe.config
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_WebForm\WebAPI_WebForm\bin\Debug\WebAPI_WebForm.exe
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_WebForm\WebAPI_WebForm\bin\Debug\WebAPI_WebForm.pdb
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_WebForm\WebAPI_WebForm\obj\Debug\WebAPI_WebForm.csprojAssemblyReference.cache
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_WebForm\WebAPI_WebForm\obj\Debug\WebAPI_WebForm.Form1.resources
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_WebForm\WebAPI_WebForm\obj\Debug\WebAPI_WebForm.Properties.Resources.resources
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_WebForm\WebAPI_WebForm\obj\Debug\WebAPI_WebForm.csproj.GenerateResource.cache
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_WebForm\WebAPI_WebForm\obj\Debug\WebAPI_WebForm.csproj.CoreCompileInputs.cache
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_WebForm\WebAPI_WebForm\obj\Debug\WebAPI_WebForm.exe
+C:\Users\fsozy\OneDrive\Masaüstü\WebAPI\WebAPI_WebForm\WebAPI_WebForm\obj\Debug\WebAPI_WebForm.pdb
